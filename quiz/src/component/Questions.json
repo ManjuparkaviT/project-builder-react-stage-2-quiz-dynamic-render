@@ -1,0 +1,138 @@
+[
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+
+    {
+        "question": "Which is the world's largest flower?",
+        "optionA": "Sunflower",
+        "optionB": "Raflessia",
+        "optionC": "Tulip",
+        "optionD": "Wild Jasmine",
+        "answer": "Raflessia"
+    },
+
+    {
+        "question": "Who build Jama Masjid?",
+        "optionA": "Shah Jahan",
+        "optionB": "Jahangir",
+        "optionC": "Aurangazib",
+        "optionD": "Akbar",
+        "answer": "Shah Jahan"
+    },
+
+    {
+        "question": "Which color car is most prone to accidents?",
+        "optionA": "White",
+        "optionB": "Black",
+        "optionC": "Blue",
+        "optionD": "Red",
+        "answer": "Black"
+    },
+    
+    {
+        "question": "Which is the  National Tree of India?",
+        "optionA": "Mango tree",
+        "optionB": "Coconut tree",
+        "optionC": "Banyan tree",
+        "optionD": "Palm tree",
+        "answer": "Banyan tree"
+    },
+
+    {
+        "question": "Which is the biggest star in sky?",
+        "optionA": "Alpha centurai",
+        "optionB": "Sirius",
+        "optionC": "Betelgeuse",
+        "optionD": "Antares",
+        "answer": "Sirius"
+    },
+
+    {
+        "question": "How many moons does jupiter have?",
+        "optionA": "78",
+        "optionB": "63",
+        "optionC": "12",
+        "optionD": "50",
+        "answer": "63"
+    },
+
+    {
+        "question": "What is the hardest substance in human body?",
+        "optionA": "Skull",
+        "optionB": "Knee",
+        "optionC": "Elbow",
+        "optionD": "Tooth Enamal",
+        "answer": "Tooth Enamal"
+    },
+
+    {
+        "question": "Which  is the largest bone in humanbody?",
+        "optionA": "Tibla",
+        "optionB": "Femur",
+        "optionC": "Fibula",
+        "optionD": "Humerus",
+        "answer": "Femur"
+    },
+
+    {
+        "question": "Which color car is most prone to accidents?",
+        "optionA": "White",
+        "optionB": "Black",
+        "optionC": "Blue",
+        "optionD": "Red",
+        "answer": "Black"
+    },
+
+    {
+        "question":"Who is the first Women Chief Minister of India?",
+        "optionA": "Sucheta Kripalani",
+        "optionB": "Sarojini Naidu",
+        "optionC": "Anwar Taimur",
+        "optionD": "Smriti Irani",
+        "answer": "Suchetha Kripalani"
+    },
+
+    {
+        "question": "Who is the first Women to fly in Space?",
+        "optionA": "Savitskaya",
+        "optionB": "Kalpana Chawla",
+        "optionC": "Tereshkova",
+        "optionD": "Sally ride",
+        "answer": "Tereshkova"
+    },
+    
+    {
+        "question": "When did the first world war break out?",
+        "optionA": "1857",
+        "optionB": "1914",
+        "optionC": "1904",
+        "optionD": "1900",
+        "answer": "1914"
+    },
+
+    {
+        "question": "What is the total number of players in a hockey team?",
+        "optionA": "9",
+        "optionB": "7",
+        "optionC": "11",
+        "optionD": "12",
+        "answer": "11"
+    },
+
+    {
+        "question": "How many hearts does octopus have?",
+        "optionA": "8",
+        "optionB": "3",
+        "optionC": "1",
+        "optionD": "4",
+        "answer": "3"
+    }
+
+
+]

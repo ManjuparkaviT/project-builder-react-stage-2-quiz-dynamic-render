@@ -1,0 +1,68 @@
+.Home ,.container , .main{
+    height: 600px;
+    width: 1350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(72, 72, 197);
+    border: 5px solid white;
+}
+
+.text{
+    color: white;
+    font-weight: normal;
+    
+}
+
+.quiz , .component{
+    width: 600px;
+    height: 400px;
+    background-color: white;
+}
+
+.component{
+    height: 280px;
+    margin-bottom: 10px;
+}
+
+h1,h2,h3,h4,p{
+    font-weight: normal;
+}
+
+.btn1 , .btn2 ,.btn3 ,.btn4{
+    margin-right: 30px;
+    margin-bottom: 15px;
+    width: 200px;
+    background-color: rgb(44, 192, 197);
+    border-radius: 10px;
+    color: white;
+}
+
+.btn5, .btn6 ,.btn7{
+    width: 100px;
+    margin-right: 16px;
+}
+
+.btn7{
+    background-color: red;
+    color: white;
+}
+
+.btn6 ,.playnow{
+    background-color:green;
+    color: white;
+}
+
+.btn5{
+    background-color:blue;
+    color: white;
+}
+
+.container h1{
+    color: rgb(122, 199, 34);
+}
+
+.component h1{
+    color: rgb(66, 153, 204);
+}
